@@ -209,7 +209,7 @@ storagedrawers.config.prop.keepContentsOnBreak.tooltip=破坏抽屉时会保留�
 storagedrawers.config.addons=拓展包
 storagedrawers.config.addons.tooltip=设定独立的扩展包创造模式标签页。
 
-storagedrawers.config.addons.showNEI=在NEI中显示扩展包方块
+storagedrawers.config.addons.showNEI=在 JEI 中显示扩展包方块
 storagedrawers.config.addons.showCreative=在创造模式标签页中显示扩展包方块
 storagedrawers.config.addons.separateTabs=标签分类
 storagedrawers.config.addons.tooltip=设定独立的扩展包创造模式标签页。
